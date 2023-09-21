@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{48615AFB-D2C0-46CC-8AF8-12283A0B557C}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackendTask/Views/Task/ShowSearchForm.cshtml">
+    <Files>
+      <File FileName="BackendTask/Program.cs" Line="1" Column="1" />
+      <File FileName="BackendTask/Views/Task/Index.cshtml" Line="54" Column="1" />
+      <File FileName="BackendTask/Controllers/TaskController.cs" Line="45" Column="10" />
+      <File FileName="BackendTask/Models/Tasks.cs" Line="18" Column="10" />
+      <File FileName="BackendTask/Views/Shared/_Layout.cshtml" Line="14" Column="31" />
+      <File FileName="BackendTask/Views/Task/ShowSearchForm.cshtml" Line="20" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackendTask" expanded="True">
+            <Node name="BackendTask" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataBase" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Task" expanded="True">
+                  <Node name="ShowSearchForm.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BackendTask PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
